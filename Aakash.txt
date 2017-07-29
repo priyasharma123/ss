@@ -1,0 +1,235 @@
+
+<!DOCTYPE html>
+<head>
+
+<meta charset="utf-8">
+<title>
+ WEBSITE FOR AAKASH BDAY!
+</title>
+<link rel="icon" href="IMG-20170712-WA0002.jpg">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="css/animate.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
+<style>
+
+footer {
+      background-color: black;
+      
+      font-size:15px;
+    color:#FF7F50;
+    }
+li a:hover{
+color:#FF7F50;
+
+}
+body{
+ background-color:#FF7F50;
+}
+div.dada{
+background-color:black;
+padding:40px;
+color:white;
+overflow:auto;
+font-family:'Sofia';
+font-size: 20px;
+color:#FF7F50;
+}
+#monu{
+  float:right;
+  width: 200px;
+ height:250px;
+  margin: 0 0 10px 10px;
+}
+
+
+
+
+
+
+
+</style>
+</head>
+<body>
+
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">Aakash Birthday</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li><a href="happy.html">Home</a></li>
+        <li class="active"><a href="Aakash.html">Aakash</a></li>
+        <li><a href="Video.html">Video</a></li>
+        <li><a href="Mem.html">Memories</a></li>
+      </ul>
+      
+    </div>
+  </div>
+</nav>
+</br>
+</br>
+<div class="dada">
+
+<img src="IMG-20170712-WA0000.jpg" alt=" monu.jpg " id="monu">
+Monu and Dada</br>
+Aakash is actually my life.</br>
+I always try to protect him because I never want to loose him. .He understands me very well . Many a times I scold him and he gets upset.</br>
+At that time, I feel very bad,I feel Like saying him sorry, but it becomes difficult for me to apologies to my younger brother. .</br> 
+He is blessed with blessings from Lord Rama. I want to thank god for his blessings on him and on our family .</br>
+I know one day he will achieve great heights an d people will respect him alot.</br> 
+I wish him a very a good luck for his future .</br>
+Lastly I would like to say to you, that Aakash please never feel alone, I will be with you forever and will always love u lot. .</br>
+God bless u bro...
+</div>
+</br>
+</br>
+<div class="dada">
+Sonu And Aakash  </br>
+<img src="IMG-20170714-WA0000.jpg" alt="IMG-20170714-WA0000.jpg " id="monu">
+Aa very happy birthday to you bro.</br>
+Many many happy returns of the day . .</br>
+In Dis year I just want to say that this time I'll surely made you feel proud . .</br> 
+I know waht gift you want from me .. .I am definitely working on it. .</br>
+Love you  a lot bro. .</br> 
+Hope you have the greatest birthday today.</br>
+God bless u bro...
+</div></br>
+</br>
+<div class="dada">
+Ankit And Aakash  </br>
+<img src="IMG-20170712-WA0047.jpg" alt=" monu.jpg " id="monu">
+Aakash urf Guruji</br>
+Mere bhai ko dilse wish you a many happy returns of the day.. I wish you live  your life with your smile as always ... And waise hamesha hi bola hai you are my one of the best friend 
+bhai sacho I am very proud to have a person like you in my life ....</br>
+I have learn so many things from you and still learning and trying to execute the same and I would  say I am doing good</br>
+Lif eis tough I guess but when I see your positive personality it makes me think twice ki yaar sach main life isn't that tough</br> 
+We are the ones  who makes it tough. . .</br>
+Anyway and yes I am always with you Aakash .. you are like a family Blessed to have you</br>
+Once again</br>
+Happy birthday Aakash</br>
+</br>
+Ankit Sharma!
+</div></br>
+</br>
+<div class="dada">
+MJ And Guruji!  </br>
+<img src="IMG_20170401_074343604.jpg" alt=" monu.jpg " id="monu">
+
+Guruji, the light of our group, who keeps everyone together like glue, thinks for others like  he does for himself.</br>
+You helped my grow, helped me learn, changed me in many ways that made me a better person, and I hope to help others like you do.</br>
+Rest assured, will always be there for you</br>
+
+</div></br>
+<div class="dada">
+Barve And Aakash  </br>
+<img src="IMG_20160521_100728500_TOP.jpg" alt=" monu.jpg " id="monu">
+This fellow is literally a god like creature to us.</br>
+There is no single person in our college who doesn't know his name. </br>
+His name itself is a brand. Because this guy helped every single person in our Class/Department.<br>
+Even this guy have helped many students within campus and out of campus to complete there Major Project.</br>
+And this guy is so amazingly? brilliant that he scored 10 on 10 pointer even after helping the students including Me in our study's? from day before the exams till the the moment we enter the class after that we are on our own because that guy won't help you to cheat.</br>
+One of the most remarkable scheme is been launched by this guy in our department and we call it as “The Shadow Faculty”.</br>
+In Shadow Faculty students with some extra calibar get stage and opportunity to show their teaching skills.</br>
+And any student can teach if he is good at that perticular topic or chapter.</br>
+And This guy have helped many start-ups for developing their product for free.</br>
+ Even after helping so many people he managed to get pleased, and also helped many to get pleased.</br>
+This guy also work in many NGO's so that he can provide them with whatever he have.</br>
+If you are friend or enemy if you ever call for help this guy will always be there to help you without thinking of his position or whatever he will help you.</br>
+Even now if I come across any problem I will definitely call this guy to help me, because I know this guy will help me or give me some solution to solve that problem.</br>
+And now this guy have got Student of The Year trophy it simply means that not oney me but also our college fellow's including teaching staff acknowledge him.</br>
+This guy is one of few people for whom respect comes from the heart. And the name of that guy is Akash Wankhede.
+
+Happy birthday hagoda</br>
+
+</div></br>
+</br>
+<div class="dada">
+Bhagyashri Di And Aakash  </br>
+<img src="IMG-20170712-WA0028.jpg" alt=" monu.jpg " id="monu">
+Asakh k bare me kya bolu....
+Akash means sky & sky has no limit...
+Vo mera Bhai hai isliye nhi balki har ek chij me uska deeply involvement rahta hai..
+</br>
+Sabko leke chalna ye uski khasihat hai. 
+Aur any situation smile on his face.</br>
+That's i like..
+I feel proud u r my brother.
+Keep smiling always
+I am with u.</br>
+
+Guruji always rock's.
+</br>
+
+</div></br>
+</br>
+<div class="dada">
+Nili And Aakash  </br>
+<img src="IMG-20170713-WA0038.jpg" alt=" monu.jpg " id="monu">
+Happy Birthday bhai. . . .</br>
+Best person by heart pure soul. . .. </br>
+I m really very glad that I have a brother like you . . . . . .<br>
+khup madat keli tu majhi pushkl vela . . .jewha jewha garaj hoti tewha tewha tu hotach help krayla. . . .  . n tu hi nagpurlach hote he . . .   again
+many many happy returns of the day akkya . . . . thnqq vry much for ur help n support . . . .</br>
+May all ur dreams come true . . . . and all the very best for ur future . . . . gbu . . . </br>
+love uh bhai . . . . </br>
+Always keep smiling . . . </br>
+</div>
+</br>
+</br>
+<div class="dada">
+Piu And Aakash  </br>
+<img src="IMG_20160216_172850686.jpg.jpg" alt=" monu.jpg " id="monu">
+Aakash means sky !</br>
+Sky is infinite and limitless like that you having infinite  qualities , you are kind , humble , honest ....I m not having words to define you. </br>
+May be all good qualities of world is present in you .</br> 
+I think I m the luckiest person because all amazing creature of world is present in my life.</br>
+Dost banau tujhe yah dushman nibhayega tu dosti hi..</br>
+Pyaar karo yah nafrat karega tu pyaar hi...</br> 
+Pyara Komal dost tu mera, dil tera kitna saaf hai</br>
+Isliye tu mere dil k pass or mera sabse khas hai..</br>
+Tu Khush reh sada bus yehhi mere dil ki dua...</br>
+Love uh Aalu....</br>
+Happy Birthday..</br> 
+ </div></br>
+</br>
+<div class="dada">
+Vidya And Aakash  </br>
+<img src="IMG-20170712-WA0031.jpg" alt=" monu.jpg " id="monu">
+
+Happy birthday Bhai</br>
+
+</div> 
+</br>
+</br>
+<br>
+<footer class="container-fluid text-center">
+  
+<p>Contact me:</p>
+<pre style="background-color: black; font-size:15px; color:#FF7F50;border:hidden;">
+<i class=" fa fa-female">  Priya Sharma</i>
+<i class=" fa fa-mobile-phone "> 8806244875</i>
+<i class=" fa fa-envelope"> sharma1996priya@gmail.com</i>
+</pre>
+
+
+
+</footer>
+
+
+
+
+
+</body>
+</html>
